@@ -17,7 +17,7 @@ function and print a message on the LCD screen.
 ### stm8l_discovery-DMA
 It is a sample that demonstrates how to use the Direct Memory Access (DMA) in the STM8L. It is provided that shows how to use the DMA with the ADC and DAC using the various transfer modes of the DMA. This notebook capture ADC data on PC7 pin of STM8L-Discovery and generate a table siganl on PF0 pin using the DAC module of STM8L-Discovery simultaneously.
 
-Russian description  
+Russian description : https://habr.com/ru/post/486598/
 
 English description : in proccess... Perhaps [**REMCU tutorial**](https://remotemcu.com/tutorials) can help you run these notebooks.
 
